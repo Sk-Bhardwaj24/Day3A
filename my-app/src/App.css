@@ -1,0 +1,9 @@
+.app {
+  /* text-align: center; */
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+  margin-left: 45%;
+}
